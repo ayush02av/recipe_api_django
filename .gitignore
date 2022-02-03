@@ -1,0 +1,12 @@
+## environment files
+*.env
+# *.txt
+*.bat
+
+## folders
+uploads
+staticfiles
+
+## files
+restart_database.py
+db.sqlite3
