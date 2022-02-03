@@ -1,7 +1,5 @@
 ## environment files
 *.env
-# *.txt
-*.bat
 
 ## folders
 uploads

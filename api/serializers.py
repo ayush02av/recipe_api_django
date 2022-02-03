@@ -1,4 +1,3 @@
-from pyrsistent import field
 from rest_framework import serializers
 from database import models
 
